@@ -1,20 +1,27 @@
 # Data Structures and Algorithms Code Solutions
-A repository of code solutions for Online Judge websites like LeetCode or HackerRank. 
+
+A repository of code solutions for Online Judge websites like LeetCode or HackerRank.
 
 ## Problems Solved
+
 ### Array
+
 #### LeetCode
+
 - #1 Two Sum
 - #217 Contains Duplicate
 
 #### HackerRank
+
 - 2D Arrays
 - Arrays - DS
 - Left Rotation
 - Matching Strings
 
 ### Hashing
-#### LeetCode
+
+#### LeetCode (Other)
+
 - #36 Valid Sudoku
 - #49 Group Anagrams
 - #128 Longest Consecutive Sequence

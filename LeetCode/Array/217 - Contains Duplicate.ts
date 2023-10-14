@@ -8,5 +8,6 @@ function containsDuplicate(nums: number[]): boolean {
         set.add(number);
     }
     
+
     return false;
 };
